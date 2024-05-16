@@ -2,4 +2,4 @@
 Guitar World
 
 ## Description
-Guitar World is a store that specializes in the sale of guitars, guitar accessories, lessons.
+Guitar World is a store that specializes in the sale of guitars, guitar accessories, and lessons.
